@@ -1,0 +1,9 @@
+﻿  BusLine.cpp
+c:\users\yer\source\repos\ex_8\ex_8\busline.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\yer\source\repos\ex_8\ex_8\busline.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\yer\source\repos\ex_8\ex_8\busline.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\yer\source\repos\ex_8\ex_8\busline.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\yer\source\repos\ex_8\ex_8\busline.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\yer\source\repos\ex_8\ex_8\busline.cpp(150): warning C4018: '<': signed/unsigned mismatch
+  EX_8.vcxproj -> C:\Users\YER\source\repos\EX_8\Debug\EX_8.exe
+  EX_8.vcxproj -> C:\Users\YER\source\repos\EX_8\Debug\EX_8.pdb (Partial PDB)
