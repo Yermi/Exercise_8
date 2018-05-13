@@ -107,7 +107,7 @@ int indexOfBusLine(int LineNumber, int **lines, int size)
 }
 double avarageTravle(int **lines, int size)
 {
-	int sum = 0, count = -1;
+	double sum = 0, count = -1;
 	for (size_t i = 0; i < size; i++)
 	{
 		sum += lines[i][2];
@@ -196,7 +196,6 @@ int main()
 
 			// TODO::check if the Bus line is exist. if yes - reduce the size of array
 			size--;
-			// print the array
 			printLines(Lines, size);
 			break;
 		case 2:
@@ -218,6 +217,7 @@ int main()
 			cout << "the shortest bus line is: " << shortest(Lines, size) << endl;
 			break;
 		case 7:
+			break;
 		default:
 			cout << "Error!" << endl;
 		}
