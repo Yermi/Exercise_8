@@ -117,7 +117,7 @@ double avarageTravle(int **lines, int size)
 }
 int avarageStops(int **lines, int size)
 {
-	int sum = 0, count = -1;
+	double sum = 0, count = -1;
 	for (size_t i = 0; i < size; i++)
 	{
 		sum += lines[i][1];
